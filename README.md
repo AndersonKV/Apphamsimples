@@ -1,2 +1,2 @@
 # Apphamsimples
-app hamburguer simples
+app carrinho de hamburguer simples utilizando html, css, jquery e js
